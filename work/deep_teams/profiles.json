@@ -1,0 +1,904 @@
+{
+ "38uyptF1t5euTmPAFoc4q5u5G4RHTZsvc8t48PFXtcqg": {
+  "team": "B",
+  "wallet_first_tx": "2026-10-01 03:27:47",
+  "wallet_age_h_at_first_launch": 0.1,
+  "n_tx": 28,
+  "launches_total_in_history": 3,
+  "base_tokens": 3,
+  "launch_hours_utc": {
+   "3": 2,
+   "10": 1
+  },
+  "median_gap_min": 205.0,
+  "dev_buy_sol": [
+   2.741,
+   2.732,
+   2.743
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 2,
+  "pnl_all_tokens_sol": 6.01,
+  "tickers": [
+   "SI",
+   "uіn",
+   "lockedinu"
+  ],
+  "ticker_reuse": 0,
+  "metadata_host": [
+   "pump.mypinata.cloud"
+  ],
+  "tools": [
+   "79Xs3xsm (бот create+buy+sell)"
+  ],
+  "create_fee": [
+   0.000122
+  ],
+  "jito_tip": 0,
+  "fee_recipient_other": 1,
+  "funding_hop1": "85Pvhx2U (активный кошелёк, 2.997 SOL)",
+  "funding_deep_kinds": [],
+  "profit_to_fresh_wallets": [
+   [
+    "5ftZCL4PB7p9cH9cmv8rUv33cvyePbnt1rt3N4gfNFyr",
+    12.01,
+    3
+   ]
+  ],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 3,
+  "bundle_slot0_max_sol": 7.571,
+  "volbot_tokens": 0,
+  "max_ath": 40567.019348343725
+ },
+ "7qRxJhgZ8Resz5rPJxsDDbhZfDV7fM14rJ6mX7TNtjtr": {
+  "team": "A?",
+  "wallet_first_tx": "2026-09-30 19:09:15",
+  "wallet_age_h_at_first_launch": 0.1,
+  "n_tx": 21,
+  "launches_total_in_history": 7,
+  "base_tokens": 5,
+  "launch_hours_utc": {
+   "9": 4,
+   "19": 1
+  },
+  "median_gap_min": 19.5,
+  "dev_buy_sol": [
+   0.07,
+   0.08,
+   0.07,
+   0.06,
+   0.02
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 263.5,
+  "pnl_all_tokens_sol": 0.37,
+  "tickers": [
+   "BAN",
+   "SL",
+   "SL",
+   "SC",
+   "SC"
+  ],
+  "ticker_reuse": 2,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [],
+  "create_fee": [
+   3.5995e-05,
+   3.6298e-05,
+   3.8174e-05
+  ],
+  "jito_tip": 0.001,
+  "fee_recipient_other": 0,
+  "funding_hop1": "E3yU6529 (активный кошелёк, 0.163 SOL); 5ndLnEYq (активный кошелёк, 0.101 SOL)",
+  "funding_deep_kinds": [],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 3,
+  "max_ath": 37349.572264707684
+ },
+ "Ca5SdkYYFEo6Uiq5VBZKmRxrppUQxeNYn6neZcufVEAV": {
+  "team": "—",
+  "wallet_first_tx": "2026-09-28 12:34:56",
+  "wallet_age_h_at_first_launch": 0.1,
+  "n_tx": 113,
+  "launches_total_in_history": 16,
+  "base_tokens": 3,
+  "launch_hours_utc": {
+   "7": 3
+  },
+  "median_gap_min": 5.5,
+  "dev_buy_sol": [
+   5.007,
+   3.007,
+   2.507
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 4,
+  "pnl_all_tokens_sol": 24.42,
+  "tickers": [
+   "AJAX",
+   "MRBEAST",
+   "SPEED"
+  ],
+  "ticker_reuse": 0,
+  "metadata_host": [
+   "useyoupaid.com"
+  ],
+  "tools": [
+   "FLASHX (снайпер-бот)",
+   "L2TExM",
+   "pump fee-sharing"
+  ],
+  "create_fee": [
+   3.293e-05,
+   3.6e-05,
+   7e-05
+  ],
+  "jito_tip": 0,
+  "fee_recipient_other": 0,
+  "funding_hop1": "2bBRwhGo (активный кошелёк, 7.1 SOL)",
+  "funding_deep_kinds": [],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 1,
+  "bundle_slot0_max_sol": 3.806,
+  "volbot_tokens": 0,
+  "max_ath": 39955.71377632822
+ },
+ "3eWRcbuA4z3qV8up9EEM8ALmFv68KvEpU921y6JoG1S1": {
+  "team": "A?",
+  "wallet_first_tx": "2026-09-07 12:23:43",
+  "wallet_age_h_at_first_launch": 557.4,
+  "n_tx": 104,
+  "launches_total_in_history": 5,
+  "base_tokens": 4,
+  "launch_hours_utc": {
+   "6": 4
+  },
+  "median_gap_min": 4.4,
+  "dev_buy_sol": [
+   0.61,
+   1.172,
+   0.07,
+   0.413
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 541.0,
+  "pnl_all_tokens_sol": -9.56,
+  "tickers": [
+   "Trump’s ",
+   "Trump’s",
+   "Trump’s",
+   "Trump’s"
+  ],
+  "ticker_reuse": 2,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [
+   "proVF4 (лаунчер)"
+  ],
+  "create_fee": [
+   3.7605e-05,
+   3.7707e-05,
+   3.8652e-05
+  ],
+  "jito_tip": 0,
+  "fee_recipient_other": 0,
+  "funding_hop1": "3QFBUaLo (обычный, 7.424 SOL); 2urMMeqh (обычный, 3.632 SOL); HBQ2TC2g (хаб/биржа (поведение), 0.05 SOL)",
+  "funding_deep_kinds": [
+   "Binance",
+   "Gate",
+   "хаб/биржа (поведение)"
+  ],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 4,
+  "max_ath": 38717.422368351145
+ },
+ "CeS8x5XBRhSqRAGTryKiATiMHD2pxP5L8m94C9xpLpDZ": {
+  "team": "A?",
+  "wallet_first_tx": "2026-09-29 10:30:27",
+  "wallet_age_h_at_first_launch": 43.0,
+  "n_tx": 89,
+  "launches_total_in_history": 5,
+  "base_tokens": 5,
+  "launch_hours_utc": {
+   "5": 1,
+   "7": 2,
+   "8": 1,
+   "11": 1
+  },
+  "median_gap_min": 70.6,
+  "dev_buy_sol": [
+   0.21,
+   0.268,
+   1.274,
+   0.821,
+   13.114
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 8349.0,
+  "pnl_all_tokens_sol": -11.38,
+  "tickers": [
+   "alTRON",
+   "alTRON",
+   "alTRON",
+   "alTRON",
+   "alTRON"
+  ],
+  "ticker_reuse": 4,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [],
+  "create_fee": [
+   3.6467e-05,
+   3.7566e-05,
+   3.8862e-05
+  ],
+  "jito_tip": 0,
+  "fee_recipient_other": 0,
+  "funding_hop1": "FBfQEqTq (активный кошелёк, 11.115 SOL); 79g7v5cY (активный кошелёк, 0.058 SOL); 8VGgK2zB (обычный, 0.022 SOL)",
+  "funding_deep_kinds": [
+   "OKX"
+  ],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 3,
+  "max_ath": 55704.58209300966
+ },
+ "3T1TzYX9QWTUTwY84ytkd4qcz3sHFV82D1rRZBvrj1cZ": {
+  "team": "—",
+  "wallet_first_tx": "2026-09-30 17:22:15",
+  "wallet_age_h_at_first_launch": 3.3,
+  "n_tx": 267,
+  "launches_total_in_history": 3,
+  "base_tokens": 3,
+  "launch_hours_utc": {
+   "1": 2,
+   "20": 1
+  },
+  "median_gap_min": 140.9,
+  "dev_buy_sol": [
+   1.003,
+   2.303
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 797.0,
+  "pnl_all_tokens_sol": -2.55,
+  "tickers": [
+   "HOTSHIBA",
+   "eye",
+   "HOTSHIBA"
+  ],
+  "ticker_reuse": 1,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [],
+  "create_fee": [],
+  "jito_tip": 0,
+  "fee_recipient_other": 0,
+  "funding_hop1": "iGdFcQoy (хаб/биржа (поведение), 5.172 SOL); EtVZ8Lou (хаб/биржа (поведение), 1.07 SOL)",
+  "funding_deep_kinds": [
+   "хаб/биржа (поведение)"
+  ],
+  "profit_to_fresh_wallets": [
+   [
+    "HEYmiFjtAz9bg6oXt1NFQg962V2pu5e5HzW7wVgj7tiU",
+    186.383,
+    1
+   ],
+   [
+    "ASKBKFgWCnJ2hL4e1i2Yu2V7QgsWfPNndRFwazRmp8Jp",
+    5.114,
+    1
+   ],
+   [
+    "3XxinCL5Ut7L1viBJkfAbJWspMeNgxH2rXCWXygLuy3y",
+    4.291,
+    1
+   ]
+  ],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 0,
+  "max_ath": 1112910.7433785906
+ },
+ "8gksQXRK742NqZv4HWngrdHe1XpKkCpj48DvrbuvThwc": {
+  "team": "—",
+  "wallet_first_tx": "2026-10-01 00:25:20",
+  "wallet_age_h_at_first_launch": 0.1,
+  "n_tx": 52,
+  "launches_total_in_history": 13,
+  "base_tokens": 5,
+  "launch_hours_utc": {
+   "0": 5
+  },
+  "median_gap_min": 1.1,
+  "dev_buy_sol": [
+   1.209,
+   1.209,
+   1.209,
+   1.209,
+   1.151
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 77741,
+  "pnl_all_tokens_sol": 1.05,
+  "tickers": [
+   "BRIMSTONE",
+   "COAL",
+   "IRON",
+   "GEMS",
+   "GEMERALD"
+  ],
+  "ticker_reuse": 0,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [
+   "proVF4 (лаунчер)",
+   "pump fee-sharing"
+  ],
+  "create_fee": [
+   3.0951e-05,
+   3.1444e-05,
+   3.2522e-05
+  ],
+  "jito_tip": 0,
+  "fee_recipient_other": 0,
+  "funding_hop1": "2snHHreX (хаб/биржа (поведение), 4.355 SOL); 4xPsLuQB (активный кошелёк, 2.74 SOL); 9J8NfEsT (обычный, 0.399 SOL)",
+  "funding_deep_kinds": [
+   "хаб/биржа (поведение)"
+  ],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [
+   [
+    "BqzbZr7fK2eQtx7GiPgbJRGaKeyVcTXqrzCUXcdqSMrV",
+    5.607,
+    1
+   ]
+  ],
+  "bundle_slot0_tokens": 4,
+  "bundle_slot0_max_sol": 5.797,
+  "volbot_tokens": 0,
+  "max_ath": 36160.6202608326
+ },
+ "61nJHg961nrQaicPo1nmQUbEBW6CagPeqtiPsLBpeWPw": {
+  "team": "—",
+  "wallet_first_tx": "2025-07-16 19:31:59",
+  "wallet_age_h_at_first_launch": 10588.1,
+  "n_tx": 92,
+  "launches_total_in_history": 3,
+  "base_tokens": 3,
+  "launch_hours_utc": {
+   "23": 3
+  },
+  "median_gap_min": 1.4,
+  "dev_buy_sol": [],
+  "dev_buy_fixed": null,
+  "median_sec_to_first_sell": null,
+  "pnl_all_tokens_sol": -0.09,
+  "tickers": [
+   "PLAXER",
+   "INUDEX6900",
+   "Bebo"
+  ],
+  "ticker_reuse": 0,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [
+   "FLASHX (снайпер-бот)"
+  ],
+  "create_fee": [],
+  "jito_tip": 0,
+  "fee_recipient_other": 0,
+  "funding_hop1": "xW32QQe7 (обычный, 31.18 SOL); 4imBmZG7 (обычный, 31.18 SOL); HsJtASRv (обычный, 3.032 SOL)",
+  "funding_deep_kinds": [],
+  "profit_to_fresh_wallets": [
+   [
+    "4imBmZG7MMkpSBY8Lo8Pe526CanvHQuPdEMaVgPYNdRd",
+    62.361,
+    4
+   ],
+   [
+    "H8uZD3y9rMUBQS4uGFF23byAumDo4yfd4Vi4Z57pRgnc",
+    3.109,
+    2
+   ],
+   [
+    "84MPdGLrEyHs5ZTRSB6EzZfUr62PHZpiyouwM4FmpABK",
+    3.025,
+    2
+   ]
+  ],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 0,
+  "max_ath": 31081.375987104064
+ },
+ "7MVStSUUeEt8LEztadqeuTM6129BkFWnE9EFBAyxzADD": {
+  "team": "A",
+  "wallet_first_tx": "2026-04-27 15:08:19",
+  "wallet_age_h_at_first_launch": 0.0,
+  "n_tx": 152,
+  "launches_total_in_history": 22,
+  "base_tokens": 3,
+  "launch_hours_utc": {
+   "22": 1,
+   "23": 2
+  },
+  "median_gap_min": 18.9,
+  "dev_buy_sol": [
+   1.239,
+   1.581,
+   1.708
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 506,
+  "pnl_all_tokens_sol": 21.28,
+  "tickers": [
+   "BOOB",
+   "BUCKS",
+   "COCK"
+  ],
+  "ticker_reuse": 0,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [
+   "6Vo3245e (бот запуска/торговли)"
+  ],
+  "create_fee": [
+   1.35e-05,
+   1.5e-05
+  ],
+  "jito_tip": 0.00055265,
+  "fee_recipient_other": 0,
+  "funding_hop1": "CPYEm6Eg (обычный, 13.723 SOL); EcSYkvnw (обычный, 7.63 SOL); EVxgjCv9 (обычный, 3.353 SOL)",
+  "funding_deep_kinds": [
+   "хаб/биржа (поведение)"
+  ],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [
+   [
+    "8cQgs8LJ4TtunQcX81qs1t39TuH5FcdhRFHcjVDgMA9f",
+    4.489,
+    50
+   ]
+  ],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 3,
+  "max_ath": 35233.62217652568
+ },
+ "AJkLmyXNv6Rqibtc3GGbjEnzMy3sFcC5rnDLDdc9hoBK": {
+  "team": "B",
+  "wallet_first_tx": "2026-09-30 16:38:17",
+  "wallet_age_h_at_first_launch": 0.0,
+  "n_tx": 30,
+  "launches_total_in_history": 8,
+  "base_tokens": 5,
+  "launch_hours_utc": {
+   "16": 1,
+   "17": 2,
+   "18": 2
+  },
+  "median_gap_min": 12.0,
+  "dev_buy_sol": [
+   2.032,
+   2.032,
+   2.033,
+   2.033,
+   2.034
+  ],
+  "dev_buy_fixed": true,
+  "median_sec_to_first_sell": 2,
+  "pnl_all_tokens_sol": 10.23,
+  "tickers": [
+   "LONGSEM",
+   "is",
+   "Income",
+   "NI",
+   "ETF"
+  ],
+  "ticker_reuse": 0,
+  "metadata_host": [
+   "pump.mypinata.cloud"
+  ],
+  "tools": [
+   "79Xs3xsm (бот create+buy+sell)",
+   "pump fee-sharing"
+  ],
+  "create_fee": [
+   0.000122
+  ],
+  "jito_tip": 0,
+  "fee_recipient_other": 2,
+  "funding_hop1": "8CrKUFeT (обычный, 0.148 SOL)",
+  "funding_deep_kinds": [],
+  "profit_to_fresh_wallets": [
+   [
+    "4WwoPjAbQj6zN4pVQXemDXh1AiCsq5KJRJRixYWhEveQ",
+    15.358,
+    3
+   ]
+  ],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 0,
+  "max_ath": 43059.00979677294
+ },
+ "BBEGPByktQezhQTqNjH6jit4vGmAYdvnVSkqyirrCmRM": {
+  "team": "A",
+  "wallet_first_tx": "2026-09-30 17:29:12",
+  "wallet_age_h_at_first_launch": 0.3,
+  "n_tx": 96,
+  "launches_total_in_history": 4,
+  "base_tokens": 4,
+  "launch_hours_utc": {
+   "7": 2,
+   "17": 1,
+   "18": 1
+  },
+  "median_gap_min": 32.1,
+  "dev_buy_sol": [
+   0.109,
+   0.21,
+   0.487,
+   2.011
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 56.0,
+  "pnl_all_tokens_sol": -0.82,
+  "tickers": [
+   "QNT",
+   "QNT",
+   "QNT",
+   "QNT"
+  ],
+  "ticker_reuse": 3,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [
+   "6Vo3245e (бот запуска/торговли)"
+  ],
+  "create_fee": [
+   1.5e-05
+  ],
+  "jito_tip": 9.528e-06,
+  "fee_recipient_other": 0,
+  "funding_hop1": "D7gH2YPJ (обычный, 2.108 SOL); 8guB3FR2 (активный кошелёк, 0.028 SOL)",
+  "funding_deep_kinds": [
+   "Bybit"
+  ],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 2,
+  "max_ath": 105289.80118404292
+ },
+ "HQgDqhXR15JmJ9ENemQ17RSTqZsaAdBCjrZ14Jb7jbVv": {
+  "team": "—",
+  "wallet_first_tx": "2026-09-30 11:19:40",
+  "wallet_age_h_at_first_launch": 1.4,
+  "n_tx": 227,
+  "launches_total_in_history": 6,
+  "base_tokens": 4,
+  "launch_hours_utc": {
+   "12": 1,
+   "15": 1,
+   "17": 1,
+   "19": 1
+  },
+  "median_gap_min": 109.0,
+  "dev_buy_sol": [
+   6.144,
+   8.189,
+   7.166,
+   5.974
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 6.5,
+  "pnl_all_tokens_sol": 45.31,
+  "tickers": [
+   "daopad",
+   "GrokSaw",
+   "BUYTHISNOW",
+   "am"
+  ],
+  "ticker_reuse": 0,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [
+   "Exw9h2 (бот)",
+   "FLASHX (снайпер-бот)",
+   "GMGN бот"
+  ],
+  "create_fee": [
+   0.00161
+  ],
+  "jito_tip": 0.0001,
+  "fee_recipient_other": 0,
+  "funding_hop1": "9VwCzywD (хаб/биржа (поведение), 8.119 SOL); 5tzFkiKs (Binance, 1.994 SOL)",
+  "funding_deep_kinds": [
+   "Binance",
+   "хаб/биржа (поведение)"
+  ],
+  "profit_to_fresh_wallets": [
+   [
+    "7HRk3W3VMPCM4xZCmPHnDiABfYRDakWpU72ec5QpgiKU",
+    45.396,
+    2
+   ]
+  ],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 2,
+  "bundle_slot0_max_sol": 20.246,
+  "volbot_tokens": 0,
+  "max_ath": 112413.47250412432
+ },
+ "4YxuFCtSv99B8FALDPan24RCr9dLK6tXDQA2SHCHvgea": {
+  "team": "—",
+  "wallet_first_tx": "2026-09-30 14:55:50",
+  "wallet_age_h_at_first_launch": 0.0,
+  "n_tx": 47,
+  "launches_total_in_history": 4,
+  "base_tokens": 4,
+  "launch_hours_utc": {
+   "14": 1,
+   "15": 1,
+   "16": 1,
+   "17": 1
+  },
+  "median_gap_min": 32.7,
+  "dev_buy_sol": [
+   0.012,
+   0.012,
+   0.515,
+   1.023
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 1.0,
+  "pnl_all_tokens_sol": 4.74,
+  "tickers": [
+   "DogCoin",
+   "Stacy",
+   "DigitalHouse",
+   "POOFART123"
+  ],
+  "ticker_reuse": 0,
+  "metadata_host": [
+   "metadata.j7tracker.io"
+  ],
+  "tools": [
+   "J7 tracker (бандлер)"
+  ],
+  "create_fee": [
+   1e-05,
+   0.00101
+  ],
+  "jito_tip": 0,
+  "fee_recipient_other": 4,
+  "funding_hop1": "GeoFENBH (активный кошелёк, 7.92 SOL); 7u3sCpsB (активный кошелёк, 7.51 SOL); 9xLUBtno (активный кошелёк, 6.69 SOL)",
+  "funding_deep_kinds": [],
+  "profit_to_fresh_wallets": [
+   [
+    "3oDUnsKRsYhexyCkNptiT1L9Fd8rJ7b1jrwQDnKYrnKk",
+    24.0,
+    2
+   ],
+   [
+    "CS8DCW3GNyUnsqi97pgWNECvHB7SFYxAx8AVkFovNzGz",
+    14.5,
+    1
+   ],
+   [
+    "GXwfi7d9vWazXxj2pGxfTdbagnQfRqqLRvR8W39Xz1jm",
+    11.0,
+    1
+   ]
+  ],
+  "profit_to_other_devs": [
+   [
+    "Dq261DCRyMcQkP6Th8KAKvWrx28Wr7BS3J8ZQrLRR8zd",
+    8.464,
+    6
+   ]
+  ],
+  "bundle_slot0_tokens": 2,
+  "bundle_slot0_max_sol": 20.0,
+  "volbot_tokens": 0,
+  "max_ath": 36290.56993538779
+ },
+ "EcSYkvnwGeYxmuLaz2MKiJuLZgtua3wuzSJvbb8cPgG1": {
+  "team": "A",
+  "wallet_first_tx": "2026-04-25 21:47:41",
+  "wallet_age_h_at_first_launch": 0.0,
+  "n_tx": 264,
+  "launches_total_in_history": 54,
+  "base_tokens": 4,
+  "launch_hours_utc": {
+   "14": 2,
+   "15": 2
+  },
+  "median_gap_min": 16.8,
+  "dev_buy_sol": [
+   0.805,
+   0.3,
+   1.487,
+   0.722
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 743.0,
+  "pnl_all_tokens_sol": 13.68,
+  "tickers": [
+   "TRONAUT",
+   "fishbob",
+   "PURP",
+   "DUCK"
+  ],
+  "ticker_reuse": 0,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [
+   "6Vo3245e (бот запуска/торговли)"
+  ],
+  "create_fee": [
+   1.35e-05,
+   1.5e-05,
+   1.5071e-05
+  ],
+  "jito_tip": 0.000956821,
+  "fee_recipient_other": 0,
+  "funding_hop1": "6pXoxnRW (активный кошелёк, 6.553 SOL); Cc3bpPzU (хаб/биржа (поведение), 5.766 SOL); FpwQQhQQ (хаб/биржа (поведение), 2.732 SOL)",
+  "funding_deep_kinds": [
+   "хаб/биржа (поведение)"
+  ],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [
+   [
+    "32Yg1M7SkFsbcXCVCzAHaPWr1mzxckL2qbTSeP8hfP2H",
+    11.805,
+    40
+   ],
+   [
+    "3vFuKGqJzgdP6Ze8LUSD6HyDG7oMdr7QupvHxfBxNxJi",
+    9.593,
+    50
+   ],
+   [
+    "7MVStSUUeEt8LEztadqeuTM6129BkFWnE9EFBAyxzADD",
+    7.63,
+    22
+   ]
+  ],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 2,
+  "max_ath": 31659.768883257046
+ },
+ "AtepExxRkwM1zZ5TDn7HsEdEXKGDfLU7wZiTdJxDsHQP": {
+  "team": "A",
+  "wallet_first_tx": "2026-09-10 11:21:56",
+  "wallet_age_h_at_first_launch": 268.6,
+  "n_tx": 794,
+  "launches_total_in_history": 5,
+  "base_tokens": 4,
+  "launch_hours_utc": {
+   "12": 1,
+   "14": 2,
+   "20": 1
+  },
+  "median_gap_min": 102.8,
+  "dev_buy_sol": [
+   0.011,
+   0.55,
+   0.74,
+   0.807
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 41.0,
+  "pnl_all_tokens_sol": -18.8,
+  "tickers": [
+   "WORD",
+   "More",
+   "more",
+   "MORE"
+  ],
+  "ticker_reuse": 2,
+  "metadata_host": [
+   "ipfs.io"
+  ],
+  "tools": [
+   "6Vo3245e (бот запуска/торговли)"
+  ],
+  "create_fee": [
+   1.5e-05,
+   3.71e-05,
+   5.0858e-05
+  ],
+  "jito_tip": 8.815e-06,
+  "fee_recipient_other": 0,
+  "funding_hop1": "GJRs4FwH (Coinbase, 14.979 SOL); F7p3dFrj (хаб/биржа (поведение), 5.118 SOL); 2AQdpHJ2 (Coinbase, 4.105 SOL)",
+  "funding_deep_kinds": [
+   "Coinbase",
+   "хаб/биржа (поведение)"
+  ],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 2,
+  "max_ath": 44653.0859639335
+ },
+ "9QznKKTqDsyr4ALe4dira6Vjzy4WLW7tYfTtcbVLJ9w9": {
+  "team": "—",
+  "wallet_first_tx": "2026-03-17 15:28:11",
+  "wallet_age_h_at_first_launch": 4725.2,
+  "n_tx": 274,
+  "launches_total_in_history": 6,
+  "base_tokens": 3,
+  "launch_hours_utc": {
+   "12": 3
+  },
+  "median_gap_min": 3.0,
+  "dev_buy_sol": [
+   0.017,
+   0.017,
+   0.072
+  ],
+  "dev_buy_fixed": false,
+  "median_sec_to_first_sell": 25,
+  "pnl_all_tokens_sol": -20.07,
+  "tickers": [
+   "Mochi",
+   "Mochi",
+   "Mochi"
+  ],
+  "ticker_reuse": 2,
+  "metadata_host": [
+   "m.rapidlaunch.io"
+  ],
+  "tools": [
+   "FLASHX (снайпер-бот)",
+   "RapidLaunch",
+   "pump fee-sharing"
+  ],
+  "create_fee": [
+   1e-05
+  ],
+  "jito_tip": 0,
+  "fee_recipient_other": 0,
+  "funding_hop1": "7RJTrfEg (активный кошелёк, 79.791 SOL); C7SQXH8q (обычный, 31.333 SOL); DYaUQZ5y (обычный, 17.258 SOL)",
+  "funding_deep_kinds": [
+   "Binance",
+   "хаб/биржа (поведение)"
+  ],
+  "profit_to_fresh_wallets": [],
+  "profit_to_other_devs": [],
+  "bundle_slot0_tokens": 0,
+  "bundle_slot0_max_sol": 0,
+  "volbot_tokens": 0,
+  "max_ath": 70342.10545247566
+ }
+}
